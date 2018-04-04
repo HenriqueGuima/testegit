@@ -10,6 +10,11 @@ namespace testegit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("olaola");
+            for (int i = 0; i < 20; i++)
+            {
+                Console.WriteLine("25");
+            }
         }
     }
 }
